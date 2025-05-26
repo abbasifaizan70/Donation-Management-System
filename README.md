@@ -49,8 +49,8 @@ This is a frontend coding challenge built with **React** and **Ant Design**. It 
 1. **Clone the repository (if hosted):**
 
 ```bash
-git clone https://github.com/your-username/senior-react-task.git
-cd senior-react-task
+git clone https://github.com/abbasifaizan70/Donation-Management-System
+cd Donation-Management-System
 ```
 
 
